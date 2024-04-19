@@ -1,3 +1,8 @@
+# Website 
+https://americanfood12.netlify.app
+# Description
+Embark on a flavorful journey through America's culinary delights with our React-powered food website. From iconic classics to innovative creations, explore and indulge in the diverse gastronomic landscape of the USA. Bon appétit!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
